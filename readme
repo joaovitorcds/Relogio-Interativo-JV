@@ -1,0 +1,6 @@
+    É um trabalho de estudo do curso.
+
+    Função: Ele mostra a hora, (Apenas hora, sem minutos), na parte:
+if (hora >= 0 && <12) ele declara que entre entre 0 (meia noite), e 12 (meio dia), 
+ele apresenta uma cor de fundo e uma imagem, quando passar das 12 horas, até 18 horas, 
+é a parte da tarde, ele mud o fundo novamente e a imagem e não é diferente na noite!!
